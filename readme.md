@@ -1,4 +1,4 @@
-# Guía de uso
+# Guía de uso de rutas
 
 ## /registroestudiante
 Registra un estudiante
